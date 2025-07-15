@@ -1,9 +1,16 @@
-main>div {
-    background-color: green;
-}
 main {
     display: grid;
-    grid-template-columns: auto auto auto ;
-    gap: 2px;
-    /* background-color: greenyellow; */
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #2196f3;
+    padding: 10px;
+}
+.webber-fx > div {
+    background-color: #aed4f3;
+    padding: 20px 0;
+    font-size: 30px;
+    text-align: center;
+}
+.prick {
+    grid-area: 2 / 1 /span 2 /span 3;
 }

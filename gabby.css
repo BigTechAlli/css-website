@@ -1,0 +1,9 @@
+main>div {
+    background-color: green;
+}
+main {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 2px;
+    /* background-color: greenyellow; */
+}

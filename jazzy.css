@@ -1,0 +1,19 @@
+main {
+    height: 97vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+button {
+    background-color: dodgerblue;
+    border: 0;
+    height: 30px;
+    border-radius: 4px;
+    color: white;
+}
+h1 {
+    font-weight: bolder;
+    font-size: 40px;
+}

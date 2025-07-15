@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(215, 246, 250); */
+}
+main {
+    height: 97dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+ 
+span {
+    color: dodgerblue;
+    justify-content: center;
+    display: flex;
+
+}
+
+.gabby {
+    /* gap: 20px; */
+    
+}
+ 
+button {
+    background-color: dodgerblue;
+    border: 0;
+    border-radius: 10px;
+    width: 100px;
+    height: 35px;
+    
+}
+
+.css {
+    background-color: whitesmoke;
+     width: 20%
+    /* display: flex; */ */
+    /* align-items: start; */
+}
+
+nav {
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+table {
+    padding: 6px;
+    
+}
+
+th {
+    /* gap: 50px; */
+}
+
+
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    
+}
+
+.free {
+    background-color: whitesmoke;
+}
